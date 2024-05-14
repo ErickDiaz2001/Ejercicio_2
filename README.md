@@ -8,11 +8,10 @@ Configuracion
 
 El system clock del microcontrolador se configuro a 72Mhz.
 
-![image](https://github.com/ErickDiaz2001/Ejercicio_2/assets/169405943/86a437f6-b362-41f3-80eb-994765631e8e)
 
 Se utilizara el timer 2, para obtener una interrupción cada 200 ms se configuro un prescaler a 7200-1 y el counter period a 2000. Ademas de habilitar la interrupcion. 
 
-![image](https://github.com/ErickDiaz2001/Ejercicio_2/assets/169405943/25faf1ff-1dde-47eb-8416-d773bf6f66e9)
+![image](https://github.com/ErickDiaz2001/Ejercicio_2/assets/169405943/252d5ede-e2b4-4de1-84ea-6366427aaf6c)
 
 Metodología
 
