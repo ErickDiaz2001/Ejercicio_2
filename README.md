@@ -38,7 +38,7 @@ Se utilizará una variable llamada “contador” la cual se incrementara cada 2
 
 Implementación y analisis del programa
 
-![image](https://github.com/ErickDiaz2001/Ejercicio_2/assets/169405943/b8f33e36-5bca-4934-8884-506e1d88e72b)
+![image](https://github.com/ErickDiaz2001/Ejercicio_2/assets/169405943/cf796b99-9a38-42e0-ad5d-2571d53845da)
 
 El tiempo de encendido entre cada led es de 200 ms con un periodo total de 600 ms(verde).
 
